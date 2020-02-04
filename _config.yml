@@ -6,6 +6,7 @@ highlighter:      rouge
 title:            Ishaan Verma
 tagline:          
 description:      
+timezone:         Asia/Kolkata
 url:              https://ishaanverma.github.io/
 baseurl:          # the optional subpath of your site, e.g. "/blog"
                   # NB: This applies to all pages in your Jekyll site.
