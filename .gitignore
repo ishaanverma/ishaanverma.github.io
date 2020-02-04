@@ -1,0 +1,3 @@
+.sass*
+_site*
+*.lock
