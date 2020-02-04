@@ -30,6 +30,7 @@ paginate: 5
 # Custom vars
 version:     
 sidebar_home_link:  true
+google_analytics: UA-157713825-1
 # sidebar_blog_link:  '/blog'   # By default, your home page is your blog
                                 # page. If you change your paginate_path,
                                 # set this to the root of the paginate_path
