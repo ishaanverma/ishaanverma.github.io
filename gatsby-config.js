@@ -1,7 +1,16 @@
 module.exports = {
   siteMetadata: {
     siteUrl: "https://www.yourdomain.tld",
-    title: "blog",
+    title: "Ishaan Verma",
   },
-  plugins: [],
+  plugins: [
+    'gatsby-plugin-mdx',
+    {
+      resolve: "gatsby-source-filesystem",
+      options: {
+        name: `blog`,
+        path: `${__dirname}/blog`
+      }
+    }
+  ],
 };
