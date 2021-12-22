@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-pages-index-js",
     "path": "/",
-    "result": {"data":{"allMdx":{"nodes":[{"frontmatter":{"date":"Jul 25, 2021","title":"Yet Another Post"},"id":"3cc4497c-980d-5498-aa44-96cf8110d072","slug":"yet-another-post"},{"frontmatter":{"date":"Jul 24, 2021","title":"Another Post"},"id":"9cf40075-7016-551b-8ec6-a0c5c9492d6c","slug":"another-post"},{"frontmatter":{"date":"Jul 23, 2021","title":"My First Post"},"id":"f7d95ca2-1d00-5258-82af-735821b10121","slug":"my-first-post"}]}},"pageContext":{}},
+    "result": {"data":{"allMdx":{"nodes":[{"frontmatter":{"date":"Jul 23, 2021","title":"My First Post"},"id":"f7d95ca2-1d00-5258-82af-735821b10121","slug":"my-first-post"}]}},"pageContext":{}},
     "staticQueryHashes": ["3159585216"]}
